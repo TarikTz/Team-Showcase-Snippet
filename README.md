@@ -2,7 +2,7 @@
 
 Demo: https://tariktz.github.io/teamshowcase/
 
-Technology used:
-HTML & CSS
-Simple to use
-Responsive design
+Technology used: <br>
+HTML & CSS <br>
+Simple to use <br>
+Responsive design <br>
